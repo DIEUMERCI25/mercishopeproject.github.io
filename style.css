@@ -1,0 +1,126 @@
+.first-second{
+   background-blend-mode: screen;
+   background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+   margin: 0%;
+   padding: 0%;
+}
+.first-second1{
+   font-size: 1.2em;
+}
+.first-second2{
+   padding: 0px;
+   margin: 100px 0px 100px 80px;
+}
+.tall-card {
+   min-height: 517px;
+   background-color: #7fffd4;
+}
+.wide-card {
+   min-height: 263px;
+   background-color: #7fffd4;
+ }
+ .large-img {
+   width: 200%;
+   height: auto;
+ }
+.first-second32{
+   background-color: 	#7fffd4;
+   width: 80%;
+   padding-left: 40px;
+   margin-left: 70px;
+}
+.second1{
+   margin: 0px 0px 0px 0px;
+}
+.first-second33{
+   background-color:	#7fffd4;
+   width: 80%;
+   padding-left: 40px;
+   margin-left: 80px;
+}
+.first-second34{
+   background-color: 	#7fffd4;
+   height: 80%;
+}
+.first-second31{
+   background-color: 	#7fffd4;
+   text-align: center;
+   display: flex;
+   width: 135%;
+   height: 80%;
+}
+ .list-inline-item a {
+      color: black; /* Initial color */
+    }
+
+    .list-inline-item a:hover {
+      color: 	#7fffd4; /* Blue on hover */
+      text-decoration:none;
+        
+    }
+
+ 
+ .lastcont{
+   z-index: 1;
+   width: 40%;
+ }
+ .lastcont1{
+   margin-bottom: 50px;
+ }
+ .center-container {
+   text-align: center;
+ }
+
+ .center-container img {
+   border-radius: 50%;
+   max-width: 100%;
+   height: auto;
+ }
+
+ .side-images img {
+   border-radius: 50%;
+   max-width: 100%;
+   height: auto;
+   margin-top: 15px;
+   float: left;
+ }
+ .side-images img {
+   border-radius: 50%;
+   max-width: 100%;
+   height: auto;
+   margin-top: 15px;
+   float: left;
+ }
+ .side-images2 img {
+   border-radius: 50%;
+   max-width: 100%;
+   height: auto;
+   margin-top: 150px;
+   float: left;
+ }
+ .side-images1 img {
+   border-radius: 50%;
+   max-width: 100%;
+   height: auto;
+   margin:-68px 10px 0px 1px;
+   float: left;
+ }
+ .image11{
+   border-radius: 1px;
+
+ }
+ .lastfooter {
+  position: relative;
+  height: 280px;
+}
+
+.floating-image {
+  position: absolute;
+  z-index: 1;
+  width: 20%;
+}
+
+.right-column {
+  margin-left: 50%; /* Adjust the value to create space for the floating image */
+  z-index: 2;
+}
